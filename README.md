@@ -16,7 +16,7 @@
 
 gemini 的码风对标就比较好，比较相近，可以看 `表达式求值2` 的部分。
 
-码风提示词代码取自 (code)[https://codeforces.com/contest/2162/submission/344290644]：
+码风提示词代码取自 [code](https://codeforces.com/contest/2162/submission/344290644)：
 
 ```cpp
 #include<bits/stdc++.h>
